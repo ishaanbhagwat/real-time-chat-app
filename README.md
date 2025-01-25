@@ -12,6 +12,9 @@ Since WebSocket connections are server-specific, we use Backplane to synchronize
 
 A Backplane is a shared message store (Redis) to synchronize real-time messages across different server instances of this application.
 
+### Demo
+<img width="789" alt="Screenshot 2025-01-25 at 1 09 00 PM" src="https://github.com/user-attachments/assets/897950e7-8720-49fd-82cc-5ee11d914c92" />
+
 ## Technologies Used
 - **ASP.NET Core**: Backend framework for building the API and real-time communication.
 - **SignalR**: Library for real-time communication using WebSockets.
